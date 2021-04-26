@@ -1,0 +1,22 @@
+1  <- Housing estates in total:
+Housing estate HE1 has 5 apartments and 5 parkings
+--------------------------------------------------------------
+Apartments
+A1 with volume33 
+A2 with volume60 
+A3 with volume182 
+A4 with volume105 
+A5 with volume20 
+Parkings
+PS1  with volume  70
+PS2  with volume  20
+PS3  with volume  9
+PS4  with volume  8
+PS5  with volume  18
+People
+P1 Jalil Abrahamlee
+P2 Zeynep Saglam
+P3 John Lennon
+P4 Klaus Meine
+P5 Matthew James  Bellamy
+---------------
